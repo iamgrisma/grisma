@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "grisma",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9f6b2b4d-5122-4fc3-95a1-2f20bf80bafc",
+      "database_name": "grismadatabase"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
